@@ -1,4 +1,4 @@
-#To create a Next.js homepage using TypeScript and JSX, following the Neumorphism UI design concept, we will use basic HTML elements styled with soft shadows and light backgrounds to achieve the Neumorphism effect.
+##To create a Next.js homepage using TypeScript and JSX, following the Neumorphism UI design concept, we will use basic HTML elements styled with soft shadows and light backgrounds to achieve the Neumorphism effect.
 
 Steps:
 
